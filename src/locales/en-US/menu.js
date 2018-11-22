@@ -35,4 +35,10 @@ export default {
   'menu.account.settings': 'Account Settings',
   'menu.account.trigger': 'Trigger Error',
   'menu.account.logout': 'Logout',
+
+  'menu.user': 'User Manger',
+  'menu.user.eidt': 'Edit Mange',
+  'menu.user.list': 'User List',
+  'menu.role.eidt': 'Edit Role',
+  'menu.role.list': 'Role List',
 };

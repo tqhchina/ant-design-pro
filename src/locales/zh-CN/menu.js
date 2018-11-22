@@ -35,4 +35,10 @@ export default {
   'menu.account.settings': '个人设置',
   'menu.account.trigger': '触发报错',
   'menu.account.logout': '退出登录',
+
+  'menu.usermanger': '用户管理',
+  'menu.usermanger.usereidt': '编辑用户',
+  'menu.usermanger.userlist': '用户列表',
+  'menu.usermanger.roleeidt': '编辑角色',
+  'menu.usermanger.rolelist': '角色列表',
 };

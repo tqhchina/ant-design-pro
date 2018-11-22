@@ -35,4 +35,10 @@ export default {
   'menu.account.settings': 'Configurar Conta',
   'menu.account.trigger': 'Disparar Erro',
   'menu.account.logout': 'Sair',
+
+  'menu.user': 'User Manger',
+  'menu.user.eidt': 'Edit Mange',
+  'menu.user.list': 'User List',
+  'menu.role.eidt': 'Edit Role',
+  'menu.role.list': 'Role List',
 };

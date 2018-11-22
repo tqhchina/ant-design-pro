@@ -35,4 +35,9 @@ export default {
   'menu.exception.not-find': '404',
   'menu.exception.server-error': '500',
   'menu.exception.trigger': '触发错误',
+  'menu.usermanger': '用户管理',
+  'menu.usermanger.usereidt': '编辑用户',
+  'menu.usermanger.userlist': '用户列表',
+  'menu.usermanger.roleeidt': '编辑角色',
+  'menu.usermanger.rolelist': '角色列表',
 };
