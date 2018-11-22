@@ -24,8 +24,8 @@ describe('Login', () => {
     await page.waitForSelector('#userName', {
       timeout: 2000,
     });
-    await page.type('#userName', 'admin');
-    await page.type('#password', 'ant.design');
+    await page.type('#userName', 'tqh');
+    await page.type('#password', 'tqh');
     await page.click('button[type="submit"]');
     await page.waitForSelector('.ant-layout-sider h1'); // should display error
     const text = await page.evaluate(() => document.body.innerHTML);
